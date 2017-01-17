@@ -1,0 +1,45 @@
+{
+  "Омлет": [
+      {"product": "Яйца" ,
+      "quantity": 2 ,
+      "unit" : "шт"
+      },
+      {"product" : "Молоко" ,
+      "quantity" : "50" ,
+      "unit" : "мл"
+      },
+      {"product" : "Помидор" ,
+      "quantity" : "100" ,
+      "unit" : "г"
+      }],
+
+    "Яблочный пирог" : [
+        {"product": "Яйца" ,
+        "quantity": 1 ,
+        "unit" : "шт"
+        },
+        {"product" : "Мука" ,
+        "quantity" : "300" ,
+        "unit" : "г"
+        },
+        {"product" : "Масло" ,
+        "quantity" : "60" ,
+        "unit" : "г"
+      },
+      {"product" : "Яблоки" ,
+      "quantity" : "80" ,
+      "unit" : "г"
+      }
+    ],
+    "Суп" : [
+        {"product": "Помидор" ,
+        "quantity": 300 ,
+        "unit" : "г"
+        },
+        {"product" : "Вода" ,
+        "quantity" : "100" ,
+        "unit" : "мл"
+        }
+    ]
+
+  }

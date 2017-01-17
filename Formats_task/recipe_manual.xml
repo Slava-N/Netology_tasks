@@ -1,0 +1,8 @@
+<Menu>
+  <Dish>Суп</Dish>
+  <number_of_products>2</number_of_products>
+  <Ingridients>
+    <Ingridient product="Вода" unit="мл" quantity="100" />
+    <Ingridient product="Помидор" unit="г" quantity="300" />
+  </Ingridients>
+</Menu>
