@@ -23,7 +23,7 @@ with open("recipe_manual.json", encoding='utf-8') as json_file:
 
 #автоматическая выгрузка файла json
 with open("recipe_dump.json", 'w', encoding="utf-8") as json_file_write:
-    json.dump(menu, json_file_write)
+    json.dump(menu, json_file_write, ensure_ascii=False, indent = 2)
 
 #автоматическая выгрузка файла yaml
 with open("recipe_dump.yaml", 'w', encoding="utf-8") as yaml_file_write:
