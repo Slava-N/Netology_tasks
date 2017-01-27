@@ -7,7 +7,7 @@ from pprint import pprint
 
 # выбрать формат
 format_recipe = input("Какой формат рецепта выбрать?\njson или yaml\n")
-if format_recipe == True:
+if format_recipe == 'yaml':
     recipe_name = 'recipe_dump.yaml'
 else:
     recipe_name = 'recipe_dump.json'
